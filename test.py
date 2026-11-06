@@ -1,1 +1,1 @@
-print(amagnus)
+print("amagnus")
